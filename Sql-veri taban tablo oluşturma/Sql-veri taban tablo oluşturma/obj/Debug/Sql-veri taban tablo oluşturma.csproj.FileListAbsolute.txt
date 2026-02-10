@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\Sql-veri taban tablo oluşturma\Sql-veri taban tablo oluşturma\bin\Debug\Sql-veri taban tablo oluşturma.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\Sql-veri taban tablo oluşturma\Sql-veri taban tablo oluşturma\bin\Debug\Sql-veri taban tablo oluşturma.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\Sql-veri taban tablo oluşturma\Sql-veri taban tablo oluşturma\bin\Debug\Sql-veri taban tablo oluşturma.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\Sql-veri taban tablo oluşturma\Sql-veri taban tablo oluşturma\obj\Debug\Sql-veri taban tablo oluşturma.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\Sql-veri taban tablo oluşturma\Sql-veri taban tablo oluşturma\obj\Debug\Sql-veri taban tablo oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\Sql-veri taban tablo oluşturma\Sql-veri taban tablo oluşturma\obj\Debug\Sql-veri taban tablo oluşturma.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\Sql-veri taban tablo oluşturma\Sql-veri taban tablo oluşturma\obj\Debug\Sql-veri taban tablo oluşturma.pdb

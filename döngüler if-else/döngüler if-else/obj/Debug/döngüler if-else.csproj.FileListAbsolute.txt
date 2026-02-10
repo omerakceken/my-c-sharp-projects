@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\döngüler if-else\döngüler if-else\bin\Debug\döngüler if-else.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\döngüler if-else\döngüler if-else\bin\Debug\döngüler if-else.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\döngüler if-else\döngüler if-else\bin\Debug\döngüler if-else.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\döngüler if-else\döngüler if-else\obj\Debug\döngüler if-else.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\döngüler if-else\döngüler if-else\obj\Debug\döngüler if-else.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\döngüler if-else\döngüler if-else\obj\Debug\döngüler if-else.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\döngüler if-else\döngüler if-else\obj\Debug\döngüler if-else.pdb

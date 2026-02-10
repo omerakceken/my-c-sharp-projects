@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\karar yapilari\karar yapilari\obj\Debug\karar yapilari.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\karar yapilari\karar yapilari\obj\Debug\karar yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\karar yapilari\karar yapilari\bin\Debug\karar yapilari.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\karar yapilari\karar yapilari\bin\Debug\karar yapilari.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\karar yapilari\karar yapilari\bin\Debug\karar yapilari.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\karar yapilari\karar yapilari\obj\Debug\karar yapilari.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\karar yapilari\karar yapilari\obj\Debug\karar yapilari.pdb

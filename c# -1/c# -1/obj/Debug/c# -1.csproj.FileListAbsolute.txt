@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# -1\c# -1\bin\Debug\c# -1.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# -1\c# -1\bin\Debug\c# -1.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# -1\c# -1\bin\Debug\c# -1.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# -1\c# -1\obj\Debug\c# -1.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# -1\c# -1\obj\Debug\c# -1.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# -1\c# -1\obj\Debug\c# -1.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# -1\c# -1\obj\Debug\c# -1.pdb

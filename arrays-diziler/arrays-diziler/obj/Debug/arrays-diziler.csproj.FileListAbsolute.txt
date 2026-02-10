@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\arrays-diziler\arrays-diziler\bin\Debug\arrays-diziler.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\arrays-diziler\arrays-diziler\bin\Debug\arrays-diziler.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\arrays-diziler\arrays-diziler\bin\Debug\arrays-diziler.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\arrays-diziler\arrays-diziler\obj\Debug\arrays-diziler.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\arrays-diziler\arrays-diziler\obj\Debug\arrays-diziler.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\arrays-diziler\arrays-diziler\obj\Debug\arrays-diziler.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\arrays-diziler\arrays-diziler\obj\Debug\arrays-diziler.pdb

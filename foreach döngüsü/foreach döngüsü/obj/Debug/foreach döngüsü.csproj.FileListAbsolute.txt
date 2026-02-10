@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\foreach döngüsü\foreach döngüsü\obj\Debug\foreach döngüsü.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\foreach döngüsü\foreach döngüsü\obj\Debug\foreach döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\foreach döngüsü\foreach döngüsü\bin\Debug\foreach döngüsü.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\foreach döngüsü\foreach döngüsü\bin\Debug\foreach döngüsü.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\foreach döngüsü\foreach döngüsü\bin\Debug\foreach döngüsü.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\foreach döngüsü\foreach döngüsü\obj\Debug\foreach döngüsü.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\foreach döngüsü\foreach döngüsü\obj\Debug\foreach döngüsü.pdb

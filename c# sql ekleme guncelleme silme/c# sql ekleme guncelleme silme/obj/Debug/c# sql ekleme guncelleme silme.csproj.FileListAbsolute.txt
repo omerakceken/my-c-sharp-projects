@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# sql ekleme guncelleme silme\c# sql ekleme guncelleme silme\bin\Debug\c# sql ekleme guncelleme silme.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# sql ekleme guncelleme silme\c# sql ekleme guncelleme silme\bin\Debug\c# sql ekleme guncelleme silme.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# sql ekleme guncelleme silme\c# sql ekleme guncelleme silme\bin\Debug\c# sql ekleme guncelleme silme.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# sql ekleme guncelleme silme\c# sql ekleme guncelleme silme\obj\Debug\c# sql ekleme guncelleme silme.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# sql ekleme guncelleme silme\c# sql ekleme guncelleme silme\obj\Debug\c# sql ekleme guncelleme silme.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# sql ekleme guncelleme silme\c# sql ekleme guncelleme silme\obj\Debug\c# sql ekleme guncelleme silme.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\c# sql ekleme guncelleme silme\c# sql ekleme guncelleme silme\obj\Debug\c# sql ekleme guncelleme silme.pdb
