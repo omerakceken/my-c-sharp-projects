@@ -1,0 +1,7 @@
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\sql yönetimi 2\sql yönetimi 2\bin\Debug\sql yönetimi 2.exe.config
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\sql yönetimi 2\sql yönetimi 2\bin\Debug\sql yönetimi 2.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\sql yönetimi 2\sql yönetimi 2\bin\Debug\sql yönetimi 2.pdb
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\sql yönetimi 2\sql yönetimi 2\obj\Debug\sql yönetimi 2.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\sql yönetimi 2\sql yönetimi 2\obj\Debug\sql yönetimi 2.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\sql yönetimi 2\sql yönetimi 2\obj\Debug\sql yönetimi 2.exe
+C:\Users\Ömer Faruk\Desktop\c# projeerim\c# eğitim kampi\sql yönetimi 2\sql yönetimi 2\obj\Debug\sql yönetimi 2.pdb
